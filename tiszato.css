@@ -214,4 +214,27 @@ p{
 
 
 
-		
+.szep {
+
+  width: auto;
+  height: 400px;
+float: right;
+padding-right: 200px;
+padding-top: 90px;
+ 
+}
+
+
+.nyolc {
+
+  
+position: absolute;
+  
+width: auto;
+height: 400px;
+padding-left: 800px;
+padding-bottom: 20px;
+
+ 
+  
+}
