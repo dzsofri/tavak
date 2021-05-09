@@ -44,7 +44,7 @@ a{
     -webkit-transform: translateZ(0); backface-visibility: hidden;
   
     transform: translateZ(0);
-  background:#1B2030 url(hullam.jpg) 50% 0 no-repeat;
+  background:#1B2030 url(banki_to/5.jpg) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
   animation: grow 360s  linear 10ms infinite;
@@ -180,22 +180,85 @@ span{
     
 }
 
-img{
-	width: 500px;
+
+
+
+
+
+
+table {
+	width: 600px;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+padding-right: 1000px;
+font-size: 23px;
 }
+
+
+td {
+	padding: 15px;
+	background-color: rgba(255,255,255,0.2);
+	color:black;
+}
+
+th {
+	text-align: left;
+}
+ 
 p{
-	font-size: 20px;
-   }
-
-#bevezeto{
-	font-size: 30px;
-	text-align: justify;
-	margin-right: 420px;
-	margin-left: 370px;
-	padding-top:30px ;
-	padding-bottom:30px ;
+  font-size: 30px;
 }
 
-h2{
-	font-weight: bold;
+
+
+
+
+
+.szep {
+
+  width: auto;
+  height: 400px;
+float: right;
+padding-right: 200px;
+padding-top: 90px;
+ 
+}
+
+
+.nyolc {
+
+  
+position: absolute;
+  
+width: auto;
+height: 400px;
+padding-left: 850px;
+padding-bottom: 20px;
+
+ 
+  
+}
+#link{
+	position: absolute;
+	
+  padding-left: 190px;
+	
+}
+#zolifotykos{
+	font-size: 30px;
+}
+
+
+#rage{
+  position: absolute;
+  left: 1200px;
+  top: 1250px;
+  z-index: -1;
+
+}
+
+#link2{
+	position: absolute;
+	padding-bottom: 100px;
+  
 }
