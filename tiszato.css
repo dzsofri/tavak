@@ -44,7 +44,7 @@ a{
     -webkit-transform: translateZ(0); backface-visibility: hidden;
   
     transform: translateZ(0);
-  background:#1B2030 url(pecsi_to/elmenyterkep.jpg) 50% 0 no-repeat;
+  background:#1B2030 url(tisza_to/1.jpg) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
   animation: grow 360s  linear 10ms infinite;
@@ -240,8 +240,8 @@ padding-bottom: 20px;
 }
 #link{
 	position: absolute;
-	padding-bottom: 100px;
-  padding-left: 200px;
+	
+  padding-left: 190px;
 	
 }
 #zolifotykos{
@@ -255,4 +255,10 @@ padding-bottom: 20px;
   top: 1250px;
   z-index: -1;
 
+}
+
+#link2{
+	position: absolute;
+	padding-bottom: 100px;
+  
 }
