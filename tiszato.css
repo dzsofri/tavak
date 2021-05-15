@@ -215,34 +215,33 @@ p{
 
 
 .szep {
-
-  width: auto;
-  height: 400px;
+width: auto;
+height: 400px;
 float: right;
 padding-right: 200px;
 padding-top: 90px;
- 
+
 }
 
 
-.nyolc {
+.nyolc{
+  position: absolute;
+  left: 1080px;
+  top: 1300px;
+  z-index: -1;
+  width: 600px;
+}
 
   
-position: absolute;
-  
-width: auto;
-height: 400px;
-padding-left: 850px;
-padding-bottom: 20px;
+
 
  
   
-}
+
 #link{
-	position: absolute;
-	
-  padding-left: 190px;
-	
+	margin-left: 185px;
+  margin-top: -100px;
+  
 }
 #zolifotykos{
 	font-size: 30px;
@@ -251,7 +250,7 @@ padding-bottom: 20px;
 
 #rage{
   position: absolute;
-  left: 1200px;
+  left: 1180px;
   top: 1250px;
   z-index: -1;
 

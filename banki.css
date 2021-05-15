@@ -241,7 +241,7 @@ padding-bottom: 20px;
 #link{
 	position: absolute;
 	
-  padding-left: 190px;
+  padding-left: 0px;
 	
 }
 #zolifotykos{
@@ -251,8 +251,8 @@ padding-bottom: 20px;
 
 #rage{
   position: absolute;
-  left: 1200px;
-  top: 1250px;
+  left: 1125px;
+  top: 1230px;
   z-index: -1;
 
 }
